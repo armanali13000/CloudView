@@ -34,7 +34,7 @@ cd CloudView
 
 
 Install dependencies
-
+<br>
 npm install <br>
 Start the development server
 
@@ -42,7 +42,7 @@ npx expo start <br>
 Run on device/emulator
 
 Scan the QR code using Expo Go on Android/iOS.
-
+<br>
 Or run in Android/iOS simulator.
 
 🧪 Testing <br>
@@ -53,20 +53,6 @@ CloudView is currently tested on Android using Expo Go. Support for iOS may be a
 npx expo export <br>
 npx eas build --platform android <br>
 Note: You must have eas-cli installed and configured.
-
-📁 Project Structure
-Copy
-Edit
-.
-├── assets/
-├── components/
-│   ├── WeatherInfo.tsx
-├── utils/
-│   ├── fetchWeatherData.ts
-│   └── getWeatherIcon.ts
-├── App.tsx
-└── ...
-
 
 
 💡 Inspiration <br>
