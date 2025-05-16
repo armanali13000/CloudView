@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'a60767d7d6cfa3ac08e744985021fb1f';
+const API_KEY = 'ENTER YOUR API KEY';
 
 const fetchWeather = async (
   lat?: number,

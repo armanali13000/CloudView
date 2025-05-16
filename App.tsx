@@ -26,7 +26,7 @@ export default function App() {
   const [searchCity, setSearchCity] = useState('');
   const [refreshing, setRefreshing] = useState(false);
 
-  const API_KEY = 'a60767d7d6cfa3ac08e744985021fb1f';
+  const API_KEY = 'ENTER YOUR API KEY';
 
 
   const handleRefresh = async () => {
