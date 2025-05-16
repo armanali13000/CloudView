@@ -54,7 +54,9 @@ npx expo export <br>
 npx eas build --platform android <br>
 Note: You must have eas-cli installed and configured.
 
-📁 Project Structure <br>
+📁 Project Structure
+
+
 .
 ├── assets/
 ├── components/
