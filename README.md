@@ -29,32 +29,32 @@ CloudView is a beautiful and responsive weather app built using **React Native**
 
 1. **Clone the repository**
 
-git clone https://github.com/armanali13000/CloudView.git
+git clone https://github.com/armanali13000/CloudView.git <br>
 cd CloudView
 
 
 Install dependencies
 
-npm install
+npm install <br>
 Start the development server
 
-npx expo start
+npx expo start <br>
 Run on device/emulator
 
 Scan the QR code using Expo Go on Android/iOS.
 
 Or run in Android/iOS simulator.
 
-🧪 Testing
+🧪 Testing <br>
 CloudView is currently tested on Android using Expo Go. Support for iOS may be added in the future.
 
-📦 Build APK
+📦 Build APK <br>
 
-npx expo export
-npx eas build --platform android
+npx expo export <br>
+npx eas build --platform android <br>
 Note: You must have eas-cli installed and configured.
 
-📁 Project Structure
+📁 Project Structure <br>
 .
 ├── assets/
 ├── components/
@@ -67,10 +67,10 @@ Note: You must have eas-cli installed and configured.
 
 
 
-💡 Inspiration
+💡 Inspiration <br>
 This project was built as a hands-on practice in building real-world mobile apps with React Native and Expo.
 
-🤝 Connect
+🤝 Connect <br>
 Feel free to contribute or reach out:
 
 🔗 GitHub: armanali13000
