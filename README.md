@@ -29,22 +29,15 @@ CloudView is a beautiful and responsive weather app built using **React Native**
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/armanali13000/CloudView.git
 cd CloudView
 
 
 Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Start the development server
 
-bash
-Copy
-Edit
 npx expo start
 Run on device/emulator
 
@@ -56,16 +49,12 @@ Or run in Android/iOS simulator.
 CloudView is currently tested on Android using Expo Go. Support for iOS may be added in the future.
 
 📦 Build APK
-bash
-Copy
-Edit
+
 npx expo export
 npx eas build --platform android
 Note: You must have eas-cli installed and configured.
 
 📁 Project Structure
-Copy
-Edit
 .
 ├── assets/
 ├── components/
